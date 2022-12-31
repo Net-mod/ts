@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mywebsiteurl.com	TRUE	/	FALSE	1999999999	__tad	1672473245.5318106
+ww25.mywebsiteurl.com	TRUE	/	FALSE	1999999999	parking_session	74035c46-3011-9df3-ca49-27f4b1e34b57
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	pxWWc3LzWoOK3lzmvn5kNmH53hvgchY37WX6slHxnRY-1672473254-0-AfPLoCaSBcrc4Wb3hh7urX0hK+UfUrqB5UvYM34yOhN1GVEj6/pSqLccJEiB9rmSAb2Reevvs/HW/EnH9iP99oM=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
